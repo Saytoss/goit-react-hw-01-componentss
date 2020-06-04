@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saytoss/goit-react-hw-01-componentss/static/css/main.d1b0dc9f.chunk.css",
+    "main.js": "/Saytoss/goit-react-hw-01-componentss/static/js/main.4f610d9b.chunk.js",
+    "main.js.map": "/Saytoss/goit-react-hw-01-componentss/static/js/main.4f610d9b.chunk.js.map",
+    "runtime-main.js": "/Saytoss/goit-react-hw-01-componentss/static/js/runtime-main.2c8b2965.js",
+    "runtime-main.js.map": "/Saytoss/goit-react-hw-01-componentss/static/js/runtime-main.2c8b2965.js.map",
+    "static/js/2.bb09ebb6.chunk.js": "/Saytoss/goit-react-hw-01-componentss/static/js/2.bb09ebb6.chunk.js",
+    "static/js/2.bb09ebb6.chunk.js.map": "/Saytoss/goit-react-hw-01-componentss/static/js/2.bb09ebb6.chunk.js.map",
+    "index.html": "/Saytoss/goit-react-hw-01-componentss/index.html",
+    "precache-manifest.926c223d6a12afdd67cd47a431b45576.js": "/Saytoss/goit-react-hw-01-componentss/precache-manifest.926c223d6a12afdd67cd47a431b45576.js",
+    "service-worker.js": "/Saytoss/goit-react-hw-01-componentss/service-worker.js",
+    "static/css/main.d1b0dc9f.chunk.css.map": "/Saytoss/goit-react-hw-01-componentss/static/css/main.d1b0dc9f.chunk.css.map",
+    "static/js/2.bb09ebb6.chunk.js.LICENSE.txt": "/Saytoss/goit-react-hw-01-componentss/static/js/2.bb09ebb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8b2965.js",
+    "static/js/2.bb09ebb6.chunk.js",
+    "static/css/main.d1b0dc9f.chunk.css",
+    "static/js/main.4f610d9b.chunk.js"
+  ]
+}
