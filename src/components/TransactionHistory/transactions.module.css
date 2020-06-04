@@ -1,0 +1,20 @@
+.transactionHistory {
+  width: 700px;
+  border: 2px solid #000000;
+}
+.thead {
+  background-color: ivory;
+}
+.th {
+  height: 60px;
+  font-size: 24px;
+  border-left: 1px solid #000;
+}
+.tbody {
+  background-color: linen;
+}
+.td {
+  font-size: 22px;
+  border: 1px solid #000000;
+  text-transform: uppercase;
+}
