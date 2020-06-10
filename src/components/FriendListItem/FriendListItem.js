@@ -23,7 +23,11 @@ User.defaultProps = {
 };
 
 User.propTypes = {
-  user: PropTypes.object,
+  user: PropTypes.shape({
+    avatar: PropTypes.string,
+    name: PropTypes.string,
+    isOnline: PropTypes.bool,
+  })
 };
 
 export default User;

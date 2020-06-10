@@ -5,6 +5,7 @@
   border: 1px solid #000000;
   border-radius: 10px;
   margin-bottom: 15px;
+  padding-bottom:20px;
 }
 .avatar {
   display: block;
@@ -30,14 +31,16 @@
   display: flex;
   padding: 0;
   margin: 0;
+  justify-content: space-around;
+  background-color: #f3f6f9;
+    border-radius: 0 0 5px 5px;
+
 }
 .statsListItem {
-  width: 120px;
-  border: 1px solid #000;
+  width: 60px;
   list-style: none;
   height: 70px;
-  border-radius: 10px;
-  background-color: darkkhaki;
+
 }
 .label {
   display: block;
